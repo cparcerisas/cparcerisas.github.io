@@ -2,11 +2,9 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Clea Parcerisas
     - name: Languages
-      value: English, German
+      value: Catalan, Spanish, English, French, Dutch
 
 - title: Education
   type: time_table
