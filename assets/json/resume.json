@@ -146,6 +146,14 @@
         "PAMGuide",
         "Other open-source tools"
       ]
+    },
+    {
+      "name": "Version control",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "git"
+      ]
     }
   ],
   "languages": [
