@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.vliz.be/en'>Flanders Marine Institute</a>. <a href=mailto:clea.parcerisas@vliz.be>clea.parcerisas@vliz.be</a>
 
 profile:
   align: right
