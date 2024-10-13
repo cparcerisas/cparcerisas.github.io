@@ -19,16 +19,61 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Flanders Marine Institute",
+      "position": "Post-doctoral researcher",
+      "location": "Ostend, Belgium",
+      "url": "https://vliz.be",
+      "startDate": "2024-07-01",
+      "endDate": "Present",
+      "summary": "Researcher developing open source tools for underwater marine bioacoustics"
+    },
+    {
+      "name": "Flanders Marine Institute",
+      "position": "PhD student researcher",
+      "location": "Ostend, Belgium",
+      "url": "https://vliz.be",
+      "startDate": "2019-09-16",
+      "endDate": "2024-07-01",
+      "summary": "PhD in marine bioacoustics, together with Ghent University"
+    },
+    {
+      "name": "imec",
+      "position": "Research assistant",
+      "location": "Leuven, Belgium",
+      "url": "https://www.imec-int.com/en",
+      "startDate": "2018-09-03",
+      "endDate": "2019-06-15",
+      "summary": "Developing acoustic lenses to diffract acoustic waves and obtain a desired 3D pressure distribution (acoustic holograms)"
+    },
+    {
+      "name": "Perception and Manipulation Lab at Instituto de Robótica Industrial (IRI)",
+      "position": "Research assistant",
+      "location": "Barcelona, Spain",
+      "url": "https://www.iri.upc.edu/",
+      "startDate": "2016",
+      "endDate": "2017",
+      "summary": "Developing a C++ code for a project of energy efficiency and AI in elevators"
+    },
+    {
+      "name": "Public school CEIP Nabi",
+      "position": "Music and saxophone teacher",
+      "location": "Barcelona, Spain",
+      "url": "https://agora.xtec.cat/escolanabi/",
+      "startDate": "2014",
+      "endDate": "2018",
+      "summary": "Teaching saxophone and music theory in a primary school, both individual and group classes"
     }
   ],
   "education": [
+    {
+      "institution": "Ghent University (UGent)",
+      "location": "Ghent, Belgium",
+      "url": "https://www.ugent.be/",
+      "area": "Engineering",
+      "studyType": "PhD",
+      "startDate": "2019",
+      "endDate": "2024"
+    },
     {
       "institution": "Universitat Politecnica de Catalunya (UPC)",
       "location": "Barcelona, Spain",
