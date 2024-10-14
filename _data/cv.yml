@@ -41,8 +41,8 @@
       description:
         - Marine Soundscapes in Shallow Water. Automated Tools for Characterization and Analysis
 
-    - title: Research assistant,
-      institution: <a href="https://www.imec-int.com/en">imec</a>,
+    - title: Research assistant
+      institution: <a href="https://www.imec-int.com/en">imec</a>
       location: Leuven, Belgium
       year: 2018-2019
       description: Developing acoustic lenses to diffract acoustic waves and obtain a desired 3D pressure distribution (acoustic holograms)
@@ -99,3 +99,19 @@
     - title: 1 month visiting PhD researcher Svenja Wohle
       year: 09/2024
       description: Separating Blue whale D calls from 40Hz Fin whale calls - Alfred Wegener Institute
+
+- title: Field Work
+  type: nested_list
+  contents:
+     - title: Expeditions
+       items:
+         - Short 1 to 5 day trips to the Belgian Part of the Nort Sea with the RV Simon Stevin. See <a href="https://www.vliz.be/vmdcdata/midas/investigators/719">here</a>
+         - Drift measurements with the RHIB Zeekat and the sailing vessel Capoeira. 2020 and 2021.
+         - Polarstern. Antarctic Expedition to maintain the Alfred Wegener Institute acoustic observatory (HAFOS). March and April 2022
+     - title: Instruments.
+       items:
+         - RTSys
+         - SoundTrap (300, 600, STD and HF)
+         - SonoVault
+         - icListen
+         - B&K (Nexus amplifier + hyrophone 8104)

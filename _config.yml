@@ -329,8 +329,13 @@ scholar:
   details_link: Details
 
   query: "@*"
-  group_by: year
+  group_by: year, type
   group_order: descending
+
+  sort_by: year, month
+  order: descending, descending
+  type_order: [ unpublished, article, inbook, conference, incollections, inproceedings, proceedings, book, misc, techreport ]
+  type_names: { unpublished: Pre-Prints / In Preparation }
 
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid
