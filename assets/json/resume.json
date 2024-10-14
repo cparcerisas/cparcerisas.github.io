@@ -182,5 +182,13 @@
       "fluency": "B1",
       "icon": ""
     }
-  ]
+  ],
+  "sea going experience": [
+    {
+      "name": "LifeWatch campaigns",
+      "date": "2019 - present",
+      "location": "Belgium",
+      "url": "https://www.vliz.be/vmdcdata/midas/investigators/719",
+      "icon": "fa-solid fa-location-dot"
+    },
 }
