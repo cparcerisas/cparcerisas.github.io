@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SoundLib
-description: with background image
+description: A library of underwater sounds from the North Sea
 img: assets/img/soundlib.png
 importance: 1
 category: work

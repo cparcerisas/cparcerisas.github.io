@@ -1,7 +1,7 @@
 ---
 layout: page
-title: SoundLib
-description: with background image
+title: PyPAM
+description: A package to process long-term acoustic data
 img: assets/img/pypam_logo.png
 importance: 1
 category: work
