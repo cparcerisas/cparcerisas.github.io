@@ -4,92 +4,98 @@
     - name: Full Name
       value: Clea Parcerisas
     - name: Languages
-      value: Catalan, Spanish, English, French, Dutch
+      value: Catalan (native), Spanish (native), English (C1), French (B1), Dutch (B2)
+    - name: email
+      value: clea.parcerisas@vliz.be
+    - name: Location
+      value: Ostend, Belgium
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master
+      institution: Polytechnic University of Catalonia (UPC)
+      location: Barcelona, Spain
+      year: 2016-2018
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Master thesis. An ocean sound map along the track of a journey around the globe - Underwater soundscapes of the Great Coral Reef, at <a href="www.lab.upc.edu">Laboratori d’Aplicacions Bioacustiques (LAB)</a>
 
-- title: Experience
+    - title: Bachelor
+      institution: Polytechnic University of Catalonia (UPC)
+      location: Barcelona, Spain
+      year: 2012-2016
+
+- title: Work experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Post-doctoral researcher
+      institution: Flanders Marine Institute
+      location: Ostend, Belgium
+      year: 2024-now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Developing open source tools for marine bioacoustics analysis
+    - title: PhD underwater acoustics researcher
+      institution: <a href="https://ugent.be">Ghent University</a> and <a href="https://www.vliz.be">Flanders Marine Institute</a>
+      location: Ghent, Belgium
+      year: 2019-2024
       description:
-        - Description 1.
-        - Description 2.
+        - Marine Soundscapes in Shallow Water. Automated Tools for Characterization and Analysis
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Research assistant,
+      institution: <a href="https://www.imec-int.com/en">imec</a>,
+      location: Leuven, Belgium
+      year: 2018-2019
+      description: Developing acoustic lenses to diffract acoustic waves and obtain a desired 3D pressure distribution (acoustic holograms)
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+    - title: Research assistant
+      institution: <a href="https://www.iri.upc.edu/">Perception and Manipulation Lab at Instituto de Robótica Industrial (IRI)</a>
+      location: Barcelona, Spain
+      year: 2016 - 2017
+      description: Developing a C++ code for a project of energy efficiency and AI in elevators
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Music and saxophone teacher
+      institution: Public school <a href="https://agora.xtec.cat/escolanabi/">CEIP Nabi</a>
+      location: Barcelona, Spain
+      year: 2014-2018
+      description: Teaching saxophone and music theory in a primary school, both individual and group classes
 
-- title: Open Source Projects
+- title: Developed software
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/lifewatch/pypam">pypam</a>
+      year: 2019-now
+      description: A package to process long-term underwater acoustics data
+    - title: <a href="https://github.com/lifewatch/pyporcc">pyporcc</a>
+      year: 2019-now
+      description: A python package to detect and classify porpoise clicks
+    - title: <a href="https://github.com/lifewatch/bpnsdata">bpnsdata</a>
+      year: 2019-now
+      description: A python package to add environmental data from the north sea to times-space dataframes
+    - title: <a href="https://github.com/lifewatch/pyhydrophone">pyhydrophone</a>
+      year: 2019-now
+      description: A python package to process hydrophone data in standarized and easy way
 
-- title: Honors and Awards
+- title: Programming skills
+  type: map
+  contents:
+    - name: Programming languages
+      value: Python, Matlab (high). C, PHP, R, C++, javascript (medium)
+    - name: Engineering software
+      value: Ansys, COMSOL, SolidWorks, AutoCAD, Inkscape
+    - name: Bioacoustics software
+      value: PAMGuard, MANTA, Raven Pro (and other multiple open-source ones)
+    - name: Version control
+      value: git
+
+- title: Academic supervision
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: 6 months Master internship Quentin Hamard
+      year: 01/2022 to 06/2022
+      description: The eacoacoustics of the BPNS - International Master of Bioacoustics
+    - title: 4 months internship Simon Laurent
+      year: 04/2023 to 08/2023
+      description: Develop tools to help understand/process/classify sounds measured in an underwater environment - Master Grenoble INP Phelma
+    - title: 1 month visiting PhD researcher Svenja Wohle
+      year: 09/2024
+      description: Separating Blue whale D calls from 40Hz Fin whale calls - Alfred Wegener Institute
