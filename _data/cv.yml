@@ -96,27 +96,33 @@
     - title: 4 months internship Simon Laurent
       year: 04/2023 to 08/2023
       description: Develop tools to help understand/process/classify sounds measured in an underwater environment - Master Grenoble INP Phelma
-    - title: 1 month visiting PhD researcher Svenja Wohle
+    - title: 1 month visiting PhD researcher Svenja Woehle
       year: 09/2024
       description: Separating Blue whale D calls from 40Hz Fin whale calls - Alfred Wegener Institute
 
 - title: Field Work
   type: nested_list
   contents:
-     - title: Expeditions
-       items:
-         - Short 1 to 5 day trips to the Belgian Part of the Nort Sea with the RV Simon Stevin. See <a href="https://www.vliz.be/vmdcdata/midas/investigators/719">here</a>
-         - Drift measurements with the RHIB Zeekat and the sailing vessel Capoeira. 2020 and 2021.
-         - Polarstern. Antarctic Expedition to maintain the Alfred Wegener Institute acoustic observatory (HAFOS). March and April 2022
-     - title: Instruments used
-       items:
-         - RTSys
-         - SoundTrap (300, 600, STD and HF)
-         - SonoVault
-         - icListen
-         - B&K (Nexus amplifier + hyrophone 8104)
+    - title: Expeditions
+      items:
+        - Short 1 to 5 day trips to the Belgian Part of the Nort Sea with the RV Simon Stevin. See <a href="https://www.vliz.be/vmdcdata/midas/investigators/719">here</a>
+        - Drift measurements with the RHIB Zeekat and the sailing vessel Capoeira. 2020 and 2021.
+        - Polarstern. Antarctic Expedition to maintain the Alfred Wegener Institute acoustic observatory (HAFOS). March and April 2022
+    - title: Instruments used
+      items:
+        - RTSys
+        - SoundTrap (300, 600, STD and HF)
+        - SonoVault
+        - icListen
+        - B&K (Nexus amplifier + hyrophone 8104)
 
 - title: Artistic collaborations
   type: list
-  contents:
-    -
+  items:
+    - <a href="https://stephaniehaensler.com/white-noise">White Noise composition, by Stephanie Haensler (2020). </a>
+    - <a href="https://sonicacts.com/agenda/maritime-frictions">Sonic Acts x FieldARTS Maritime Frictions, by Velma Spell (2021).</a>
+    - <a href="https://pilar.brussels/en/events/ear-to-sea">Ear to Sea, by Cusk Collective (2022-2023).</a>
+    - <a href="https://www.wur.nl/en/newsarticle/voice-of-the-north-sea-update.html">Voice of the North Sea, by Remco de Kluizenaar (2023).</a>
+    - <a href="https://g.co/arts/rqoA5tn3NMvH8FEy7">Calling in our Corals, by Google Arts \& Culture (2023).</a>
+    - <a href="https://iobz.be">De 11e Provincie, by the Instituut voor Onderzoek van de Betovering der Zeeën.</a>
+    - <a href="http://www.eliseguillaumeart.com/waves-of-resonance">Waves of Resonance, by Elise Guillaume (2024 - ongoing). Project selected for the European Marine Board EMBracingtheOcean programme. </a>
