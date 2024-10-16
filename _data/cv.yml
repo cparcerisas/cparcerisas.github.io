@@ -79,7 +79,11 @@
   type: map
   contents:
     - name: Programming languages
-      value: Python, Matlab (high). C, PHP, R, C++, javascript (medium)
+      value:
+        - name: high
+        - value: Python, Matlab
+        - name: medium
+        - value: C, PHP, R, C++, javascript
     - name: Engineering software
       value: Ansys, COMSOL, SolidWorks, AutoCAD, Inkscape
     - name: Bioacoustics software
