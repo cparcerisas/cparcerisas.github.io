@@ -79,15 +79,11 @@
   type: map
   contents:
     - name: Programming languages
-      value:
-        - name: high
-        - value: Python, Matlab
-        - name: medium
-        - value: C, PHP, R, C++, javascript
+      value: "high: Python, Matlab. medium: C, PHP, R, C++, javascript"
     - name: Engineering software
       value: Ansys, COMSOL, SolidWorks, AutoCAD, Inkscape
     - name: Bioacoustics software
-      value: PAMGuard, MANTA, Raven Pro (and other multiple open-source ones)
+      value: PAMGuard, MANTA, Raven Pro (and other open-source tools)
     - name: Version control
       value: git
 
