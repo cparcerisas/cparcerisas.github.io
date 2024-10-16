@@ -11,7 +11,7 @@ profile:
   more_info: >
     A sea urchin visiting the hydrophones on the workboat
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
