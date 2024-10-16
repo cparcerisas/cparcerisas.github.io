@@ -9,11 +9,10 @@ nav_order: 2
 
 <!-- _pages/data_and_fieldwork.md -->
 
-<!-- Bibsearch Feature -->
-
-{% include bib_search.liquid %}
-
-
+Here you can find a list of all the published datasets which have resulted from the acquired data
 <div class="publications">
- {% bibliography --template bib --group_by type --group_order ascending,descending  --type_order misc %}
+ {% bibliography --template bib --group_by type --group_order ascending,descending %}
 </div>
+
+Here some images of the fieldwork
+{% include image-gallery.html folder="/assets/img/fieldwork" %}
