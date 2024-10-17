@@ -117,7 +117,8 @@
         - B&K (Nexus amplifier + hyrophone 8104)
 
 - title: Artistic collaborations
-  items:
+  type: list
+  contents:
     - <a href="https://stephaniehaensler.com/white-noise">White Noise composition, by Stephanie Haensler (2020). </a>
     - <a href="https://sonicacts.com/agenda/maritime-frictions">Sonic Acts x FieldARTS Maritime Frictions, by Velma Spell (2021).</a>
     - <a href="https://pilar.brussels/en/events/ear-to-sea">Ear to Sea, by Cusk Collective (2022-2023).</a>
