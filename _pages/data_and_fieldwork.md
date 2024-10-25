@@ -16,5 +16,5 @@ Here some images of the fieldwork
 
 Here you can find a list of all the published datasets which have resulted from the acquired data
 <div class="publications">
- {% bibliography --template bib --group_by type --group_order ascending,descending --query @*[type=misc] --prefix post2 %}
+  {% bibliography --group_by none --query @*[type=misc]* %}
 </div>
