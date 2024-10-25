@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /fieldwork/
-title: datasets and fieldwork
+title: fieldwork
 description: 
 nav: true
 nav_order: 2
