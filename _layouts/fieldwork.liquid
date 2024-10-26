@@ -8,8 +8,11 @@ layout: default
   </header>
 
   <article>
+      <div>
+          {% include image-gallery.html folder="/assets/img/fieldwork" %}
+      </div>
       <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">published datasets</a>
       </h2>
       {% include datasets.liquid %}
 
