@@ -16,5 +16,5 @@ Here some images of the fieldwork
 
 Here you can find a list of all the published datasets which have resulted from the acquired data
 <div class="publications">
-  {% bibliography --group_by none --query @*[type=misc]* %}
+  {% bibliography --group_by none --query @*[selected=true]* %}
 </div>
