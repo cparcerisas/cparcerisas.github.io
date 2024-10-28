@@ -16,7 +16,6 @@ carousels:
     - image: /assets/img/fieldwork/Irene and I on the RV Polarstern helideck.jpeg
     - image: /assets/img/fieldwork/loading workboat.jpeg
     - image: /assets/img/fieldwork/morna.png
-    - image: /assets/img/fieldwork/pati_barcelona.jpeg
     - image: /assets/img/fieldwork/penguins escaping the RV Polarstern.jpeg
     - image: /assets/img/fieldwork/recording in Barcelona for Pati Cientific.jpeg
     - image: /assets/img/fieldwork/seasick on the Simon Stevin.jpeg
