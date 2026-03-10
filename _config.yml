@@ -18,7 +18,7 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://cparcerisas.github.io # the base hostname & protocol for your site
-baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -113,7 +113,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  To reach me better use email. 
+  To reach me better use email.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -334,8 +334,8 @@ scholar:
 
   sort_by: year, month
   order: descending, descending
-  type_order: [ unpublished, article, inbook, conference, incollections, inproceedings, proceedings, book, misc, techreport ]
-  type_names: { unpublished: In Preparation, misc: Datasets, article: Journal Articles, conference: Conference Presentations}
+  type_order: [unpublished, article, inbook, conference, incollections, inproceedings, proceedings, book, misc, techreport]
+  type_names: { unpublished: In Preparation, misc: Datasets, article: Journal Articles, conference: Conference Presentations }
 
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid

@@ -13,7 +13,6 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
-
 <div class="publications">
  {% bibliography --template bib --group_by type --group_order ascending,descending --prefix post1 %}
 </div>
